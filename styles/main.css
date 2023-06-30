@@ -1,20 +1,42 @@
-h1 {
-  font-style: italic;
+body {
+  background-color: rgb(86, 207, 247);
 }
-
+h1 {
+  font-style: oblique;
+color: rgb(21, 21, 26)
+  }
 h2 {
   font-style: italic;
+  color: rgb(3, 61, 61);
+  font-size: 35px;
+  
 }
-
 h3 {
   font-style: italic;
+  font-size: 40px;
 }
 
 h4 {
-  font-style: italic;
+  font-style: inherit;
+  font-size: 30px;
+}
+
+p {
+  font-style: inherit;
+  font-size: 20px;
+}
+
+footer {
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 
-p {
-  font-style: italic;
+.main-content {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#learning-header {
+  color: brown;
 }
